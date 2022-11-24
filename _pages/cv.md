@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S., McGill University, 2018
+* M.S., University College London, 2020
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Research Student, University College London 2019-2020
+  * Cortex Lab supervised by Dr. Kenneth D. Harris and Dr. Sylvia Schroeder
+  * Objective of the study is to investigate the architecture of orientation/direction-selective neurons in mouse superior colliculus 
+  * Processed and analyze in-vivo superior colliculus two-photon calcium imaging data with Matlab
+  * All analysis has been concluded and in preparation of manuscript
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant, Center for Brain and Cognitive Science, Peking University 2018-2019
+  * Collaborated with colleagues from experimental design to statistical analysis 
+  * Skilled at Matlab, Python and R to analyze large-scale brain imaging data such as fMRI, EEG, and MEG
+  * Co-authored several publications in the field of attention, decision-making and language computation
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Hu Y, Gao X, Yu H, He Z, Zhou X. (2021). Neuroscience of moral decision-making. Encyclopedia of Behavioral Neuroscience 2e.
+* Xiong W, Gao X, He Z, Yu H, Liu H, Zhou X. (2020). Affective evaluation of others’ altruistic decisions under risk and ambiguity. NeuroImage.
+* Zang C, Zhang L, Zhang M, Bai X, Yan G, Jiang X, He Z, Zhou X. (2019). Eye movements reveal delayed use of construction-based pragmatic information during online sentence reading: A case of Chinese Lian…dou Construction. Frontiers in Psychology
+* Song S, Gao X, He Z, Zhou X. The influence of confidence exchange on the quality of group-based learning. Poster presentation at the annual Society for NeuroEconomics meeting (2020)
+
+
