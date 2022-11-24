@@ -22,8 +22,9 @@ Research Experience
   * Processed and analyze in-vivo superior colliculus two-photon calcium imaging data with Matlab
   * All analysis has been concluded and in preparation of manuscript
 
-* Research Assistant, Center for Brain and Cognitive Science, Peking University 2018-2019
+* Research Assistant, Center for Brain and Cognitive Science, Peking University 2018-2019  
   * Collaborated with colleagues from experimental design to statistical analysis 
+  * Designed graph-based algorithms to carry out analysis in brain connectivity 
   * Skilled at Matlab, Python and R to analyze large-scale brain imaging data such as fMRI, EEG, and MEG
   * Co-authored several publications in the field of attention, decision-making and language computation
   
