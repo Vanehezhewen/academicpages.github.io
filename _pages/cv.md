@@ -14,6 +14,8 @@ Education
 * B.S., McGill University, 2018
 * M.S., University College London, 2020
 
+
+
 Research Experience
 ======
 * Graduate Research Student, University College London 2019-2020
@@ -27,6 +29,8 @@ Research Experience
   * Designed graph-based algorithms to carry out analysis in brain connectivity 
   * Skilled at Matlab, Python and R to analyze large-scale brain imaging data such as fMRI, EEG, and MEG
   * Co-authored several publications in the field of attention, decision-making and language computation
+  
+  
   
 Publications
 ======
